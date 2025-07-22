@@ -2,4 +2,6 @@ streamlit
 pandas
 matplotlib
 seaborn
-numpy
+plotly
+sqlalchemy
+mysql-connector-python
